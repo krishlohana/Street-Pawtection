@@ -46,6 +46,7 @@ npm run dev
 ## Admin Dashboard
 
 The admin dashboard is available at `/admin` and requires authentication.
+https://street-pawtection-krish-lohana.netlify.app/admin
 
 **Security Features:**
 - Username/password protection
