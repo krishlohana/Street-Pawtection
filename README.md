@@ -1,7 +1,19 @@
-# Street Pawtection
-https://street-pawtection-krish-lohana.netlify.app/
+# 🐾 Street Pawtection — Rescue Begins With You
 
-A digital platform to help street animals through reporting, rescue, adoption, and education.
+**Live Site:** [https://street-pawtection-krish-loohana.netlify.app](https://street-pawtection-krish-lohana.netlify.app)  
+**Admin Dashboard:** [https://street-pawtection-krish-lohana.netlify.app/admin](https://street-pawtection-krish-lohana.netlify.app/admin) *(Secure login required)*  
+
+---
+
+## 📖 Overview
+
+Street animals, especially dogs, often face neglect, starvation, and abuse. While rescue teams and NGOs exist, citizens often lack a **simple, unified way** to report animals in distress or connect with helpers.  
+
+**Street Pawtection** bridges this gap by providing a **digital platform** where anyone can quickly:  
+- Report a street animal in need  
+- Connect with rescue organizations and volunteers  
+- Support adoptions and community-driven care  
+
 
 ## Features
 
