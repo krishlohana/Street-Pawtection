@@ -81,6 +81,13 @@ This project is configured for Netlify deployment. Make sure to set your environ
 - **Deployment**: Netlify
 - **Icons**: Lucide React
 
+## Future Enhancements
+
+- Map-based live geolocation reports
+- Automated email/SMS alerts to rescue teams
+- Multilingual support (English + Urdu)
+- Progressive Web App (PWA) for offline use
+
 ## Contributing
 
 1. Fork the repository
@@ -94,8 +101,10 @@ This project is configured for Netlify deployment. Make sure to set your environ
 This project is open source and available under the MIT License.
 
 ## Contact
+Created by **Krish Lohana**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/krish-lohana-304409283/)  
+- 💻 [GitHub](https://github.com/krishlohana)  
 
-For questions or support, please contact the development team.
 
 ---
 
