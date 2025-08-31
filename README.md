@@ -96,6 +96,11 @@ This project is configured for Netlify deployment. Make sure to set your environ
 4. Test thoroughly
 5. Submit a pull request
 
+## Submission
+
+This project was submitted to **AnimalHack 2025** https://animalhack2025.devpost.com/ to showcase how technology 
+can be used for social good and animal welfare.  
+
 ## License
 
 This project is open source and available under the MIT License.
